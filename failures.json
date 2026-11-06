@@ -1,0 +1,44 @@
+[
+  {
+    "api": "api/v1/emoji-batteries/shimeji-categories",
+    "url": "https://cdn.tomodev.vn/emoji-battery/shimejis/thumbs/2235558948-xbanryN3U68ftns0zBHhvFG9.png",
+    "error": "HTTP Error 404: Not Found",
+    "recheck": "HTTP Error 404: Not Found",
+    "rechecked_at": "2026-11-06T09:11:12.951637+00:00"
+  },
+  {
+    "api": "api/v1/emoji-batteries/shimeji-categories",
+    "url": "https://cdn.tomodev.vn/emoji-battery/shimejis/thumbs/3195475155-ZOYbkWbY6trDPHnSXOqkJHmC.png",
+    "error": "HTTP Error 404: Not Found",
+    "recheck": "HTTP Error 404: Not Found",
+    "rechecked_at": "2026-11-06T09:11:13.059652+00:00"
+  },
+  {
+    "api": "api/v1/emoji-batteries/shimeji-categories",
+    "url": "https://cdn.tomodev.vn/emoji-charging/shimejis/thumbs/3023162095-T541W2q64HDi7eXe6w1VaNbs.png",
+    "error": "HTTP Error 404: Not Found",
+    "recheck": "HTTP Error 404: Not Found",
+    "rechecked_at": "2026-11-06T09:11:12.943109+00:00"
+  },
+  {
+    "api": "api/v1/emoji-batteries/shimeji-categories",
+    "url": "https://cdn.tomodev.vn/emoji-battery/shimejis/thumbs/2584333283-bt5qYixGyazFpMJCFDoI94QN.png",
+    "error": "HTTP Error 404: Not Found",
+    "recheck": "HTTP Error 404: Not Found",
+    "rechecked_at": "2026-11-06T09:11:12.912971+00:00"
+  },
+  {
+    "api": "api/v1/emoji-batteries/shimeji-categories",
+    "url": "https://cdn.tomodev.vn/emoji-battery/shimejis/thumbs/3803384774-Qr3JTu5XZkkNLaO04MSUo3j5.png",
+    "error": "HTTP Error 404: Not Found",
+    "recheck": "HTTP Error 404: Not Found",
+    "rechecked_at": "2026-11-06T09:11:13.187108+00:00"
+  },
+  {
+    "api": "api/v1/emoji-batteries/islands",
+    "url": "https://cdn.tomodev.vn/emoji-battery/islands/json/images/vid_0.mp4",
+    "error": "HTTP Error 404: Not Found",
+    "recheck": "HTTP Error 404: Not Found",
+    "rechecked_at": "2026-11-06T09:11:13.132087+00:00"
+  }
+]

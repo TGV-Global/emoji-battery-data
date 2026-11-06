@@ -1,0 +1,434 @@
+[
+  {
+    "id": 117,
+    "name": "Leopard Print",
+    "slug": "leopard",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 33,
+    "name": "WC 2026",
+    "slug": "wc-2026",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 1,
+    "name": "🔥 Trending",
+    "slug": "trending",
+    "icon_url": "api/v1/emoji-batteries/categories/images/5b37b696628397960a53609374b552411ac8b7ab74ead14a855d3e8c20ba5811.png",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 138,
+    "name": "Songoku",
+    "slug": "songoku",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 137,
+    "name": "Rick & Morty",
+    "slug": "rick-morty",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 135,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 136,
+    "name": "Pokemon",
+    "slug": "pokemon",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 158,
+    "name": "Oggy",
+    "slug": "oggy",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 120,
+    "name": "NFL",
+    "slug": "nfl",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 119,
+    "name": "NBA",
+    "slug": "nba",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 157,
+    "name": "Mr Bean",
+    "slug": "mr-bean",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 156,
+    "name": "Mickey",
+    "slug": "mickey",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 155,
+    "name": "Masha and bear",
+    "slug": "masha-and-bear",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 118,
+    "name": "Marvel",
+    "slug": "marvel",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 116,
+    "name": "Loopy",
+    "slug": "loopy",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 35,
+    "name": "Football",
+    "slug": "football",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 115,
+    "name": "F1",
+    "slug": "f1",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 114,
+    "name": "Aesthetic",
+    "slug": "aesthetic",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 323,
+    "name": "Bug bunny",
+    "slug": "bug-bunny",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 391,
+    "name": "Christmas Snoopy",
+    "slug": "christmas-snoopy",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 143,
+    "name": "Cry Baby",
+    "slug": "cry-baby",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  },
+  {
+    "id": 38,
+    "name": "Stitch",
+    "slug": "stitch",
+    "icon_url": "",
+    "description": null,
+    "priority": 1,
+    "is_active": true
+  },
+  {
+    "id": 37,
+    "name": "Cute",
+    "slug": "cute",
+    "icon_url": "",
+    "description": null,
+    "priority": 1,
+    "is_active": true
+  },
+  {
+    "id": 32,
+    "name": "Soccer Ball",
+    "slug": "soccer-ball",
+    "icon_url": "",
+    "description": null,
+    "priority": 2,
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "name": "Heart",
+    "slug": "heart",
+    "icon_url": "api/v1/emoji-batteries/categories/images/d4519435f019ba6f74dd850a7904586e3da1a55899509213fe61d9cbc8193a23.png",
+    "description": null,
+    "priority": 3,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Sanrio",
+    "slug": "sanrio",
+    "icon_url": "api/v1/emoji-batteries/categories/images/03f674565b35acaa290944f25dc6b2a6856c07c61c3a4b31711275607dd96b6e.png",
+    "description": null,
+    "priority": 4,
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "name": "Animal",
+    "slug": "animal",
+    "icon_url": "api/v1/emoji-batteries/categories/images/a79be03ba0de5886901c51cb36b11487959112893becd00900faae25994dba3b.png",
+    "description": null,
+    "priority": 5,
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "name": "Pompompurin",
+    "slug": "pompompurin",
+    "icon_url": "",
+    "description": null,
+    "priority": 6,
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "name": "Dog cat",
+    "slug": "dog-cat",
+    "icon_url": "",
+    "description": null,
+    "priority": 7,
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "name": "Labubu",
+    "slug": "labubu",
+    "icon_url": "",
+    "description": null,
+    "priority": 8,
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "name": "Flower",
+    "slug": "flower",
+    "icon_url": "api/v1/emoji-batteries/categories/images/c10b6f7e218ffc74c564c34e29beca700c931264854f60b5755dab86b19f8e4a.png",
+    "description": null,
+    "priority": 9,
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "name": "Cartoon",
+    "slug": "cartoon",
+    "icon_url": "api/v1/emoji-batteries/categories/images/8b8c07ce40c21e454165dcaae21566ce026c25120dee6f403efee0cc3fb52b13.png",
+    "description": null,
+    "priority": 10,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "Avatar",
+    "slug": "avatar",
+    "icon_url": "api/v1/emoji-batteries/categories/images/7ce665562205a02e7214c38b4c00c62432eea255271347d492ba0f2596c66b55.png",
+    "description": null,
+    "priority": 12,
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "name": "Dog",
+    "slug": "dog",
+    "icon_url": "",
+    "description": null,
+    "priority": 13,
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "name": "Fruit",
+    "slug": "fruit",
+    "icon_url": "api/v1/emoji-batteries/categories/images/2a33bfda92df5134734a0ba23b6078cccae388734384805527b41f31a7ec1ef2.png",
+    "description": null,
+    "priority": 14,
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "name": "Huntrix",
+    "slug": "huntrix",
+    "icon_url": "api/v1/emoji-batteries/categories/images/566837db453f166ae2c2ab6273ea5f2b21b63ae22a234e1a5b3499db26ebbfe2.png",
+    "description": null,
+    "priority": 15,
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "name": "Christmas",
+    "slug": "christmas",
+    "icon_url": "api/v1/emoji-batteries/categories/images/615292fd35775dd3b962635687823beac2d444c44c132bfbffca7e9c47554ab7.png",
+    "description": null,
+    "priority": 17,
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "name": "K-Pop",
+    "slug": "k-pop",
+    "icon_url": "api/v1/emoji-batteries/categories/images/122f199f31fc0c5d93f580121a5315d7314fc41bc330435e72358678655b45bc.png",
+    "description": null,
+    "priority": 18,
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "name": "Nature",
+    "slug": "nature",
+    "icon_url": "api/v1/emoji-batteries/categories/images/57e6a526fc5124c5be8c40af8a9b6bf474c04faaae22f4fabc814b945c1674a6.png",
+    "description": null,
+    "priority": 19,
+    "is_active": true
+  },
+  {
+    "id": 31,
+    "name": "Snoopy",
+    "slug": "snoopy",
+    "icon_url": "",
+    "description": null,
+    "priority": 20,
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "name": "Anime",
+    "slug": "anime",
+    "icon_url": "api/v1/emoji-batteries/categories/images/04249f284d9921f6ed5455f8f472431a98840600e4ebd3208ae8ce8088bb45a8.png",
+    "description": null,
+    "priority": 21,
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "name": "Shin-chan",
+    "slug": "shin-chan",
+    "icon_url": "api/v1/emoji-batteries/categories/images/8bf79404e9cdb97dbba907e13846557c2795c178fea0c3fc1b20d50f18890bba.png",
+    "description": null,
+    "priority": 22,
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "name": "Love",
+    "slug": "love",
+    "icon_url": "",
+    "description": null,
+    "priority": 22,
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "name": "Bunnies",
+    "slug": "bunnies",
+    "icon_url": "",
+    "description": null,
+    "priority": 24,
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "name": "Brainrot",
+    "slug": "brainrot",
+    "icon_url": "api/v1/emoji-batteries/categories/images/bac7a8a048f055d1ff75b418bde9e6ea4488bf93fbc403c65c3b171e962d86d3.png",
+    "description": null,
+    "priority": 25,
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "name": "Actor",
+    "slug": "actor",
+    "icon_url": "api/v1/emoji-batteries/categories/images/4cdcb66a233fc709f06a1ff4cd6bbbaddf90b246be0a676c7c6a5d8a55f846ca.png",
+    "description": null,
+    "priority": 26,
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "name": "Halloween",
+    "slug": "halloween",
+    "icon_url": "api/v1/emoji-batteries/categories/images/e2a73e4f246d0dd809a9b962a1b14d6c8076d1ed6248b2f5d330e5a91415ac57.png",
+    "description": null,
+    "priority": 27,
+    "is_active": true
+  },
+  {
+    "id": 39,
+    "name": "Mid-Autumn",
+    "slug": "mid-autumn",
+    "icon_url": "",
+    "description": null,
+    "priority": 0,
+    "is_active": true
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "id": 535,
+    "name": "Bug Bunny",
+    "slug": "bug-bunny",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/e10726e637e3db3481dc263020f0690bf17c083ae4c1b82a737d1ebd7e4a32ef.png",
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 596,
+    "name": "Christmas",
+    "slug": "christmas",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/099fd80506e4be218a51e99ab737665bf54c2abdfdad5c06da242baae8bfd11a.png",
+    "is_active": true,
+    "items_count": 30
+  },
+  {
+    "id": 595,
+    "name": "Christmas Snoopy",
+    "slug": "christmas-snoopy",
+    "icon_url": "",
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 536,
+    "name": "Masha and Bear",
+    "slug": "masha-and-bear",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/5fe678a88d87d80f1609c9f671424cb75f6da60d7a921decb0e0722c791de2ca.png",
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 395,
+    "name": "🔥 Hot",
+    "slug": "hot",
+    "icon_url": "",
+    "is_active": true,
+    "items_count": 95
+  },
+  {
+    "id": 357,
+    "name": "Aesthetic",
+    "slug": "aesthetic",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/889398dd721604a7b54c7f3685e6ecfd9e9547f7e25fa006c126b7bb7ad79c13.png",
+    "is_active": true,
+    "items_count": 9
+  },
+  {
+    "id": 359,
+    "name": "F1",
+    "slug": "f1",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/cde0d962616b9971181293f8934c5e67cabe088ad8cb56b9281777ee33acbe42.png",
+    "is_active": true,
+    "items_count": 8
+  },
+  {
+    "id": 273,
+    "name": "Game Worlds 2",
+    "slug": "game-worlds-2",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/c103a229cf2655c06af5a67c20140b2410589edec35224635038376598c50833.png",
+    "is_active": true,
+    "items_count": 89
+  },
+  {
+    "id": 383,
+    "name": "Halloween",
+    "slug": "halloween",
+    "icon_url": null,
+    "is_active": true,
+    "items_count": 25
+  },
+  {
+    "id": 358,
+    "name": "Leopard Print",
+    "slug": "baoda",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/9316582c0f2fccac2142cc1330df612e638414a8f95ea6a3fe0dd1a6c16c271c.png",
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 360,
+    "name": "Loopy",
+    "slug": "loopy",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/a40f30bd7ae205a9312f95a9abc5c1c1fbc685e9024a099aaee0a014725ad8fe.png",
+    "is_active": true,
+    "items_count": 11
+  },
+  {
+    "id": 361,
+    "name": "Marvel",
+    "slug": "marvel",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/fdc1b25a31b3cc9cab060da6b0200266c890894df94c31efc7b096cb00c0e9e6.png",
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 288,
+    "name": "Mid-Autumn",
+    "slug": "mid-autumn",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/e3f40d1d1cf07b33dd1e9ad8408c3eaa8bf99ae59e1bfc9bf3411f92423032a7.png",
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 362,
+    "name": "NBA",
+    "slug": "nba",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/5ddaa3a0d9204b4679d351fbbc796ca1fd2b39ca5600297d61157b3a40aff861.png",
+    "is_active": true,
+    "items_count": 8
+  },
+  {
+    "id": 363,
+    "name": "NFL",
+    "slug": "nfl",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/9d61907233f7016558c9e58862789110074208b34e33f86dbbdc42f2b93697c0.png",
+    "is_active": true,
+    "items_count": 8
+  },
+  {
+    "id": 384,
+    "name": "Premier League",
+    "slug": "premier-league",
+    "icon_url": null,
+    "is_active": true,
+    "items_count": 12
+  },
+  {
+    "id": 385,
+    "name": "Rick & Morty",
+    "slug": "rick-morty",
+    "icon_url": null,
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 386,
+    "name": "Songoku",
+    "slug": "songoku",
+    "icon_url": null,
+    "is_active": true,
+    "items_count": 10
+  },
+  {
+    "id": 364,
+    "name": "Stitch",
+    "slug": "stitch",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/f2e8c56ca7ae021d4deaafc7930415dd7597ec4d0116d15918582c94e793c617.png",
+    "is_active": true,
+    "items_count": 3
+  },
+  {
+    "id": 286,
+    "name": "WC 2026",
+    "slug": "wc-2026",
+    "icon_url": null,
+    "is_active": true,
+    "items_count": 31
+  },
+  {
+    "id": 280,
+    "name": "Cartoons & Animation",
+    "slug": "cartoons-animation",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/116c1a5e43038440a304f0cd06961eead6df996a1bc1d38588025724199782ed.png",
+    "is_active": true,
+    "items_count": 68
+  },
+  {
+    "id": 1,
+    "name": "Pokemon",
+    "slug": "pokemon",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/52e4610a0b7952b6ea2582e02f5355c3fff13baf27fe9f28f2d084da53eabeb0.png",
+    "is_active": true,
+    "items_count": 61
+  },
+  {
+    "id": 281,
+    "name": "Pop Culture Icons 2",
+    "slug": "pop-culture-icons-2",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/46f1294c02dc5eb09c52043e285c5e77aae6069e5935929ad0d3bad2672c4cd3.png",
+    "is_active": true,
+    "items_count": 34
+  },
+  {
+    "id": 283,
+    "name": "Horror and Creepypasta",
+    "slug": "horror-and-creepypasta",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/0627bbb52cfb57b0a6542103e32f455a08073fb375d354f07d22ac3e6b400bbc.png",
+    "is_active": true,
+    "items_count": 25
+  },
+  {
+    "id": 276,
+    "name": "Pop Culture Icons",
+    "slug": "pop-culture-icons",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/135cea6852eb38db0a6f3bc34469a2feae5268fc4c592319a73944dee1190375.png",
+    "is_active": true,
+    "items_count": 27
+  },
+  {
+    "id": 267,
+    "name": "Anime Heroes",
+    "slug": "anime-heroes",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/7b83b3f5b82b2cde557526f4f0203f240cbaa5422f1941d0dc00e854fef17b52.png",
+    "is_active": true,
+    "items_count": 29
+  },
+  {
+    "id": 278,
+    "name": "Game Worlds 3",
+    "slug": "game-worlds-3",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/ab969a016c530a0d70a22d4f52be7f51ff73ba4efaa1f0979740debadf804fd0.png",
+    "is_active": true,
+    "items_count": 62
+  },
+  {
+    "id": 269,
+    "name": "Cartoon Favorites",
+    "slug": "cartoon-favorites",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/c7cc09082c0020f74098f9380830dc250dc5da9b3db26905d6f31df9efe4432a.png",
+    "is_active": true,
+    "items_count": 18
+  },
+  {
+    "id": 274,
+    "name": "Cartoon Favorites 2",
+    "slug": "cartoon-favorites-2",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/d986010455932a2436950dede0ded55b112cb6de266f9bf4c1e73ec7841e67f7.png",
+    "is_active": true,
+    "items_count": 46
+  },
+  {
+    "id": 285,
+    "name": "Original Characters and Fandoms",
+    "slug": "original-characters-and-fandoms",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/8f8d791a7328f3255ce16969ba4e429cb6b11b6bb8d9c26384890278c9e64e95.png",
+    "is_active": true,
+    "items_count": 34
+  },
+  {
+    "id": 277,
+    "name": "Anime Heroes 3",
+    "slug": "anime-heroes-3",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/6624e42dd1ac9ea2012374e290906cfdb2d31f50d84461f296c54b21067f8f1c.png",
+    "is_active": true,
+    "items_count": 50
+  },
+  {
+    "id": 271,
+    "name": "Mixed Fandoms & Misc",
+    "slug": "mixed-fandoms-misc",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/2b7fe807afd234949497eb185616d2c25c0c242022c70ed7d965e82c74c6ab21.png",
+    "is_active": true,
+    "items_count": 21
+  },
+  {
+    "id": 268,
+    "name": "Game Worlds",
+    "slug": "game-worlds",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/04d2bd6a32c915161462fdcf596cd179943e597b092d82865b64bfbc1b3ce080.png",
+    "is_active": true,
+    "items_count": 46
+  },
+  {
+    "id": 272,
+    "name": "Anime Heroes 2",
+    "slug": "anime-heroes-2",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/e782e6bd4b340f81335d90fc687dbb3452a8d88caddf3bd9c2fd109cf8253664.png",
+    "is_active": true,
+    "items_count": 38
+  },
+  {
+    "id": 275,
+    "name": "Internet Culture & Creators",
+    "slug": "internet-culture-creators",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/5ab9347fe49a4dc88a6650e41b2bd166bc8da8c42600783f2918c739b5d3978a.png",
+    "is_active": true,
+    "items_count": 22
+  },
+  {
+    "id": 9,
+    "name": "One Piece",
+    "slug": "one-piece",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/bfdca39c5bb582d82bf0ee558c13fb9a02d534aad1ad31a0c48ea1e53893ad3b.png",
+    "is_active": true,
+    "items_count": 16
+  },
+  {
+    "id": 282,
+    "name": "Anime Stars",
+    "slug": "anime-stars",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/5c4991690ab7a12ed6642555af144fd341fe3ba33d3c4d03e6fb54f728291dd3.png",
+    "is_active": true,
+    "items_count": 34
+  },
+  {
+    "id": 284,
+    "name": "Game Worlds 4",
+    "slug": "game-worlds-4",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/461d8102a4fad8aa9e7e5fa977aabab07e24cb4b185f928091753bd3187fb951.png",
+    "is_active": true,
+    "items_count": 35
+  },
+  {
+    "id": 60,
+    "name": "Jojo's Bizarre Adventure",
+    "slug": "jojos-bizarre-adventure",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/02e876cd74993db37035d9d6299a236873370dbb032bce35b8e92dc29f6432be.png",
+    "is_active": true,
+    "items_count": 14
+  },
+  {
+    "id": 14,
+    "name": "Undertale",
+    "slug": "undertale",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/763ae52dd48c4c56a4dbfd6815582af6587f19ab761449a19110918581115685.png",
+    "is_active": true,
+    "items_count": 36
+  },
+  {
+    "id": 21,
+    "name": "Five Nights at Freddy's",
+    "slug": "five-nights-at-freddys",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/044d63d0f47c84f82f780078271c9b5fac7305854b013d0fa1f701e76ebc09a5.png",
+    "is_active": true,
+    "items_count": 17
+  },
+  {
+    "id": 22,
+    "name": "Genshin Impact",
+    "slug": "genshin-impact",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/e361e97a411f0f27c856922fc026fd02a13b425d46b67e789b11941a81cea8a0.png",
+    "is_active": true,
+    "items_count": 24
+  },
+  {
+    "id": 23,
+    "name": "Apex Legends",
+    "slug": "apex-legends",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/3f88499328673b009d2740e145302e0b8842f382eab63bc71b3ee302837f0179.png",
+    "is_active": true,
+    "items_count": 16
+  },
+  {
+    "id": 55,
+    "name": "Durarara",
+    "slug": "durarara",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/324432cd0b44b1cc0dbb4e706cb41ce167e3dac81979b7d6c91ede9c7aff7a3d.png",
+    "is_active": true,
+    "items_count": 24
+  },
+  {
+    "id": 279,
+    "name": "Internet Personalities & Creators",
+    "slug": "internet-personalities-creators",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/fcc4bd1dbbbd874482fc89921e540878e50ab959cb9911399f299dcdf16abf65.png",
+    "is_active": true,
+    "items_count": 23
+  },
+  {
+    "id": 32,
+    "name": "Bleach",
+    "slug": "bleach",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/3e757cad266df8af13a7583833fddaf0132010ddebf65153e29998ad4d35d11c.png",
+    "is_active": true,
+    "items_count": 12
+  },
+  {
+    "id": 33,
+    "name": "Hetalia",
+    "slug": "hetalia",
+    "icon_url": "api/v1/emoji-batteries/shimeji-categories/images/aac8fc1952bdbdeaf853ce3090b50a617e403108a44d77f2dd194844a3f0e2b3.png",
+    "is_active": true,
+    "items_count": 34
+  }
+]

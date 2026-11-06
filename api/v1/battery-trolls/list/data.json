@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Battery 6",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/d51efbdd1bde7064ef01dd6f31517d0f1a612d8e0bbf41ed0c09ccd17be0fad5.png",
+    "photo_url": "api/v1/battery-trolls/list/images/da6d81ee6954d81d54e277627baf311558c3c7ddf12a090b7d3e20b4d19d0de5.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/ff65c8311da0f85a8655f0d6bdc5baade0eb5572a4e41763b620185eaac6c478.zip",
+    "is_premium": true,
+    "priority": 2
+  },
+  {
+    "name": "Battery2",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/4a55348dcacdb83b5bf165d75c15e0d39e4ab9fbf37bdd780eb064c4720c9738.png",
+    "photo_url": "api/v1/battery-trolls/list/images/36f57d6bf5daadab5878a7d36c85d8bf5bc8da584b4055ad0cc664c868bca007.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/89c22136f871d557a39dae1440178f43c3c9cfb927236f34866a1699d2924e51.zip",
+    "is_premium": true,
+    "priority": 3
+  },
+  {
+    "name": "battery7",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/2616ca145ed736a09dd75a5b7eeda3b3859d90ad7151d8d80fcf3839b6c16189.png",
+    "photo_url": "api/v1/battery-trolls/list/images/e10a69b2a17075512b5cb569fe7079e7c0696b06993089667d995c8f13c05cf9.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/92058a9a42f3a6735bae3a298f229e259369649ebff4eafd1a1253271c8d3703.zip",
+    "is_premium": true,
+    "priority": 4
+  },
+  {
+    "name": "Battery3",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/6ebabe637d756a49050c6e3ba9b8838fba15148c4407431cb015c72323d429d6.png",
+    "photo_url": "api/v1/battery-trolls/list/images/9ece4037867107288c75ac6b9badba5aea036775899314d6d337efbdbca6200b.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/5dec69c8b43f88a8c9414c825cc5b9c15c160c28d445663fe78f8bcd986e3776.zip",
+    "is_premium": true,
+    "priority": 5
+  },
+  {
+    "name": "Battery8",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/581c9013f1311ef01e42cb21eb91f9f8b30e89095d09da0c416ab3aee23bef26.png",
+    "photo_url": "api/v1/battery-trolls/list/images/efe9dc51f6e97e2cc50385dfd67db54e45cdcd399cf6fa5e108d1596747815c2.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/271f9a7227ab506193dfec14cf967ddb15cfe14854f394c2ef88fd8d38b1b0f4.zip",
+    "is_premium": true,
+    "priority": 6
+  },
+  {
+    "name": "Battery9",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/7229cb30c0c938b169a1ee99335cdf6ba150895251bbd96137500515441162a8.png",
+    "photo_url": "api/v1/battery-trolls/list/images/64399b43688afaa28ac1b34461fcdac450d0c05c2b02254e9061fb8227cf412b.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/c4b3a0e6c8ca8fc9fc9f4c8420652bb10953d148daa6f0c5a8f14f2369e856a6.zip",
+    "is_premium": true,
+    "priority": 7
+  },
+  {
+    "name": "Battery10",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/34278505311f93986ef723d48c29e7d84baea037dc40a253e0eb3bbdb981298e.png",
+    "photo_url": "api/v1/battery-trolls/list/images/b519c035ba66bd9a499c84af8ffefab85f013772d7638eb5df5525772b756334.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/16624263422ecd342fdceb0fb4a2526d39d6a61dfbdde3288178d6f465d9540e.zip",
+    "is_premium": true,
+    "priority": 8
+  },
+  {
+    "name": "Battery5",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/89153647bdaac2311cfad24f4bd826004a11fc0a98745f6e78bc7104e2cf0ab8.png",
+    "photo_url": "api/v1/battery-trolls/list/images/076e9e8d48f75a98ced79bed5e75657373e31fe1a8d57cc7d82c31f2630ea7a3.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/3ba0efa68e8786eccf2c1febba59fb318ac19bfc2e26a776013247f511ec8c75.zip",
+    "is_premium": true,
+    "priority": 9
+  },
+  {
+    "name": "Battery4",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/2daa4c13b4cd9cce6b72674411af2cc6936cad389a1aa72bbeda53f2e04f5a05.png",
+    "photo_url": "api/v1/battery-trolls/list/images/17190d1c88ca3f949d7fd9f60a07847d41345b3abbba31ce0402fcb5e7655d00.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/33d953676b5f49d2be5f0bdf1d239d292fd52811ca0f1ccf65730f466c822a42.zip",
+    "is_premium": true,
+    "priority": 10
+  },
+  {
+    "name": "Battery14",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/1fa7d4147731b814b76f5061f9d27eb38c93219ac015cefe14990bbf8b9f42fa.png",
+    "photo_url": "api/v1/battery-trolls/list/images/10a10d8bf940237be457a4e66575f183af79617a5eebee7f689681b22d30de52.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/a782bebc6cc0fc3494d3cc5f8adcaf0e29a76c50f90615cfe60c74589baa6206.zip",
+    "is_premium": true,
+    "priority": 31
+  },
+  {
+    "name": "Battery 17",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/eb4bac948b0f4f22de23168ba10be940166691c5b9972fccfcf48b7c0f38a9f5.png",
+    "photo_url": "api/v1/battery-trolls/list/images/2a219c1794d2f3e09f678a31dee52538f0544a25c261c4209fbc843a22f68aa9.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/4c05e0ca348f7e1ee0020784ebc1185da60bf5a39576d8ecf32bfcd8e721ece2.zip",
+    "is_premium": true,
+    "priority": 31
+  },
+  {
+    "name": "Battery 18",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/d1f4bfb1ea7d951fdc6d39b51712b882a126906e9553974e92b8ee1035ef0b6a.png",
+    "photo_url": "api/v1/battery-trolls/list/images/88399c0f9a7cf026135dbc5e783514459c0b8e1b2edc19526cc6b5994946aa63.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/0c3848ab99d09ca30a136e13fa539b2355abe4879206948687e2f777fcb24347.zip",
+    "is_premium": true,
+    "priority": 32
+  },
+  {
+    "name": "Battery 16",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/f4a6af098f58a54b2cac13ce46fc51dd28967fc26e56fdc9fc1f1b27aec447cb.png",
+    "photo_url": "api/v1/battery-trolls/list/images/3e749b0ffc3458be98cfcce677c7ea7721294ccb859118a03ff3f41d2a44d354.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/0917b245c80eab58db5379732dad2fc0c056477e6e67d325d987609e3d509780.zip",
+    "is_premium": true,
+    "priority": 32
+  },
+  {
+    "name": "Battery 13",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/2d5b70e89c363241bb48ac44e260701865cb5acb00aae65eee8c0b957349ffcd.png",
+    "photo_url": "api/v1/battery-trolls/list/images/3c2f546e6ae83ce4331278303dfb7f9604f65fe80370a62c9c6344a06d775a73.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/7640a5205db84e6e2bf2253e63d5b70e80d7b10d9e4db2a0e1c03a3274e2cc4e.zip",
+    "is_premium": true,
+    "priority": 33
+  },
+  {
+    "name": "Battery 15",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/a502df03787015e98b48c34fcdc792e6a113cd666ed7e41c3ec40efd6b82a1e3.png",
+    "photo_url": "api/v1/battery-trolls/list/images/88e9e65a8ad1983ef40e1481ec57d4bf02d1f375f8cc581097b5b4110dd19f97.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/2e3ed4d7e26ec62914bf4c50329dfd7d5d19aab11aa469a8c352f19497115b9e.zip",
+    "is_premium": true,
+    "priority": 34
+  },
+  {
+    "name": "Battery1",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/45c9211e6c834a15437dc143e45aaf944d055cf2a139aae4e2b0b738551893a9.png",
+    "photo_url": "api/v1/battery-trolls/list/images/716dde41c3f7b3eaac338f1a06399aab5f74fcc79aad11243e20c6b729dc811d.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/1744e7f1ee3f1871a588ef2aaac059d29e22cc75b0a76fa8d45c33bce94a5160.zip",
+    "is_premium": true,
+    "priority": 35
+  },
+  {
+    "name": "Battery11",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/455a6ce3746c794a276b94caa99e561a17efe92dff79ba3fa3ae866534684366.png",
+    "photo_url": "api/v1/battery-trolls/list/images/82afee0aba65df56ed915480d3388596787c6937dd113283d988f3bb8ec75b0d.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/e543ce27ba7fe4bd149bab701de897841b6509542bf6690f8cb920b4f70aab81.zip",
+    "is_premium": true,
+    "priority": 35
+  },
+  {
+    "name": "Battery12",
+    "thumbnail_url": "api/v1/battery-trolls/list/images/ef48f83c3075d98fb5f5923fb53102753727d01d0671786894a21611f3fe6602.png",
+    "photo_url": "api/v1/battery-trolls/list/images/5cd9a4f209894b122a67dfdaf5d3fe50105d2728e357e0a68ee97315d21f3d45.png",
+    "content_zip_url": "api/v1/battery-trolls/list/assets/c1e6c4441e5f7db37003fdd7e72a57cf2602db6a56afbaf784739cc79ae61608.zip",
+    "is_premium": true,
+    "priority": 36
+  }
+]

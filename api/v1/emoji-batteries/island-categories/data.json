@@ -1,0 +1,101 @@
+[
+  {
+    "id": 34,
+    "name": "🔥 Trending",
+    "slug": "trending",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 0,
+    "is_active": true
+  },
+  {
+    "id": 36,
+    "name": "Christmas",
+    "slug": "christmas",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": 37,
+    "name": "Christmas Snoopy",
+    "slug": "christmas-snoopy",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "name": "Halloween",
+    "slug": "halloween",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 3,
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "name": "Bug Bunny",
+    "slug": "bug-bunny",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 4,
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "name": "Animal",
+    "slug": "animal",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 5,
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "name": "Masha and Bear",
+    "slug": "masha-and-bear",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 6,
+    "is_active": true
+  },
+  {
+    "id": 31,
+    "name": "Cartoon",
+    "slug": "cartoon",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 7,
+    "is_active": true
+  },
+  {
+    "id": 32,
+    "name": "Characters 2D",
+    "slug": "characters-2d",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 8,
+    "is_active": true
+  },
+  {
+    "id": 35,
+    "name": "Other",
+    "slug": "other",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 8,
+    "is_active": true
+  },
+  {
+    "id": 33,
+    "name": "Human",
+    "slug": "human",
+    "description": null,
+    "icon_url": "",
+    "sort_order": 10,
+    "is_active": true
+  }
+]
